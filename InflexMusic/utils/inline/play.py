@@ -4,7 +4,7 @@ import math
 from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 
 import config
-from ShizukaXMusic.utils.formatters import time_to_seconds
+from InflexMusic.utils.formatters import time_to_seconds
 
 
 ## After Edits with Timer Bar
